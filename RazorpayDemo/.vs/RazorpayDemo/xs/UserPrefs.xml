@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{893DD6C2-7037-85B9-CEA0-2871CEA18B90}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Razorpay Payments/Scripts/RazorpayManager.cs">
+    <Files>
+      <File FileName="../../../Live/Table Sight/Table-Sight/Assets/Table-Sight/Scripts/Constants.cs" Line="8" Column="26" />
+      <File FileName="../../../Live/Table Sight/Table-Sight/Assets/Table-Sight/Scripts/API/APIController.cs" />
+      <File FileName="../../../Live/Table Sight/Table-Sight/Assets/Table-Sight/Scripts/UIController.cs" />
+      <File FileName="../../../Live/Table Sight/Table-Sight/Assets/Plugins/Editor/PostProcessBuild.cs" />
+      <File FileName="../../../Live/Table Sight/Table-Sight/Assets/Razorpay Payments/Scripts/RazorpayManager.cs" />
+      <File FileName="Assets/Razorpay Payments/Scripts/RazorpayManager.cs" Line="60" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorpayDemo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b56aaddb-8ec5-4cf6-9bfa-29650773a768" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

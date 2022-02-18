@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.razorpay.payments"
+    android:versionCode="20"
+    android:versionName="3.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28" />
+
+    <application>
+        <activity android:name="com.razorpay.payments.java.PaymentActivity" >
+        </activity>
+
+        <!-- Add your API key here -->
+        <!-- <meta-data -->
+        <!-- android:name="com.razorpay.ApiKey" -->
+        <!-- android:value="rzp_live_ILgsfZCZoFIKMb" -->
+        <!-- /> -->
+
+    </application>
+
+</manifest>

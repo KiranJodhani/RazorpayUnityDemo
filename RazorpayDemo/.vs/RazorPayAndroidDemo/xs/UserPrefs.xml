@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D7F10205-6FB0-F71B-8819-20C217553A10}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Razorpay Payments/Scripts/RazorpayManager.cs">
+    <Files>
+      <File FileName="Assets/Razorpay Payments/Scripts/RazorpayManager.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorpayAndroidDemo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Razorpay Payments" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="RazorpayManager.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e44a1a27-2990-4557-9de4-89a2ec1cdf39" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

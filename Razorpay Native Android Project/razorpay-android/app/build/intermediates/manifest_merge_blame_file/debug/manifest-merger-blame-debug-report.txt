@@ -1,0 +1,28 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.razorpay.payments"
+4    android:versionCode="20"
+5    android:versionName="3.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+10
+11    <application>
+11-->/Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:10:5-20:19
+12        <activity android:name="com.razorpay.payments.java.PaymentActivity" >
+12-->/Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:11:9-12:20
+12-->/Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:11:19-76
+13        </activity>
+14
+15        <!-- Add your API key here -->
+16        <!-- <meta-data -->
+17        <!-- android:name="com.razorpay.ApiKey" -->
+18        <!-- android:value="rzp_live_ILgsfZCZoFIKMb" -->
+19        <!-- /> -->
+20
+21    </application>
+22
+23</manifest>

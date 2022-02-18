@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+layout activity_payment
+mipmap ic_launcher
+style AppBaseTheme
+style AppTheme

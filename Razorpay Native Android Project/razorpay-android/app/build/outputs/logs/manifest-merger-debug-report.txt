@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:4:5-36
+		INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:10:5-20:19
+activity#com.razorpay.payments.java.PaymentActivity
+ADDED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:11:9-12:20
+	android:name
+		ADDED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml:11:19-76
+uses-sdk
+INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niravjoshi/Yash/Unity Projects/Demo/RazorpayUnityDemo/Razorpay Native Android Project/razorpay-android/app/src/main/AndroidManifest.xml
